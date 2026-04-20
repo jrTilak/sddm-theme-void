@@ -4,9 +4,11 @@
 
 ![Preview](preview.png)
 
+---
+
 > This theme was thrown together with **Cursor** (“vibecoded”). I’m not a QML expert—it’s here because **it works on my machine**, not because every distro or SDDM setup is covered. **Use at your own risk.**
 
-![Works on my machine](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+<img src="https://media.makeameme.org/created/well-it-works-0c69720ff1.jpg" width="200"/>
 
 ## What you need
 
