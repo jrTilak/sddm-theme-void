@@ -12,3 +12,4 @@ Preview=preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 QtVersion=6
+TranslationsDirectory=.
